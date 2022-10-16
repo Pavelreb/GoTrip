@@ -1,7 +1,7 @@
 # GoTrip
 ## Home page
 
-[>>> Просмотр страницы Freelanser Portfolio <<<](https://pavelreb.github.io/GoTrip/)
+[>>> Просмотр страницы GoTrip <<<](https://pavelreb.github.io/GoTrip/)
 
 ![This is an image](https://github.com/Pavelreb/GoTrip/blob/master/img/first-screen.jpg?raw=true)
 
