@@ -1,21 +1,57 @@
-# GoTrip
-## Home page
+# GoTrip — лендинг турагентства
 
-[>>> Просмотр страницы GoTrip <<<](https://pavelreb.github.io/GoTrip/)
+Адаптивный лендинг турагентства с каруселью направлений, блоком отзывов и формой подписки.
 
-![This is an image](https://github.com/Pavelreb/GoTrip/blob/master/img/first-screen.jpg?raw=true)
+**Демо:** [pavelreb.github.io/GoTrip](https://pavelreb.github.io/GoTrip/)
 
-### Описание проекта:
-Обучающая верстка сайта с нуля с использованием графического редактора FIGMA, для написания кода использовался текстовый редактор Visual Studio Code макет свёрстан адаптивным и кросбраузерным.
+| Десктоп | Мобильная версия |
+|---|---|
+| ![Десктопная версия](screenshots/desktop.jpg) | ![Мобильная версия](screenshots/mobile.jpg) |
 
-### В вёрстке использовались технологии:
-- HyperText Markup Language HTML5
-- Cascading Style Sheets CSS3
-- CSS Flexible Box Layout (Flexbox)
-- JavaScript EC6
-- Owl Carousel 2 (Slider JS-libs)
+## Возможности
 
-### Материалы проекта:
-Ссылка на макет Figma: [Перейти](https://www.figma.com/file/w3Bb1v9Vq08lIoiIYLPegP/GoTrip)
+- Карусель направлений (Owl Carousel)
+- Блок отзывов клиентов с рейтингом
+- Форма подписки на рассылку
+- Адаптивная вёрстка: корректное отображение от мобильных устройств до широких мониторов
+- Бургер-меню на мобильных устройствах
 
-Ссылка на плэйлист серии видео уроков на YouTube: [Смотреть](https://www.youtube.com/watch?v=DPA9qzBJPaA&list=PL1NBhQGGj46arKowyG-OBKSRSq7j1tO2v)
+## Стек
+
+HTML5 · CSS3 (Flexbox, медиазапросы) · JavaScript · Owl Carousel
+
+## Запуск локально
+
+Проект не требует сборки — достаточно открыть `index.html` в браузере или запустить любой статический сервер:
+
+```bash
+npx serve .
+```
+
+---
+
+# GoTrip — Travel Agency Landing Page
+
+Responsive travel agency landing page with a destinations carousel, testimonials and a newsletter form.
+
+**Live demo:** [pavelreb.github.io/GoTrip](https://pavelreb.github.io/GoTrip/)
+
+## Features
+
+- Destinations carousel (Owl Carousel)
+- Testimonials section with ratings
+- Newsletter subscription form
+- Responsive layout from mobile to widescreen
+- Mobile burger menu
+
+## Tech stack
+
+HTML5 · CSS3 (Flexbox, media queries) · JavaScript · Owl Carousel
+
+## Run locally
+
+No build step required — open `index.html` in a browser or use any static server:
+
+```bash
+npx serve .
+```
